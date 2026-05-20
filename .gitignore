@@ -1,0 +1,9 @@
+# Claude Code plans (may contain sensitive info)
+.claude/plans/
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
