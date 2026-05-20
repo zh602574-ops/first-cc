@@ -4,6 +4,9 @@
 # Local Claude Code settings
 .claude/settings.local.json
 
+# Third-party skills repo
+/skills/
+
 # OS files
 .DS_Store
 Thumbs.db
